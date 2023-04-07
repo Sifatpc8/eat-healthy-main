@@ -1,5 +1,5 @@
 body {
-    font-family: 'Lobster', cursive;
+    font-family: 'Poppins', sans-serif;
 }
 
 .half-width {
@@ -27,4 +27,14 @@ body {
 
 .orrange {
     color: orange;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 5px 20px;
+    border-radius: 30px;
+    color: white;
+    font-weight: 400;
+    box-shadow: 7px 7px 40px gray;
 }
