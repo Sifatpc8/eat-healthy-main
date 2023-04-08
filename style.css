@@ -38,3 +38,25 @@ body {
     font-weight: 400;
     box-shadow: 7px 7px 40px gray;
 }
+
+.healthy-diet {
+    background-image: url(eat-healthy-main/images/shapes/7.png
+);
+    width: 100%;
+    height: 600px;
+}
+
+#Diet {
+    padding-top: 7%;
+}
+
+.healthy-diet p {
+    margin-right: 5%;
+
+}
+
+#sundori {
+    height: 580px;
+
+    padding-top: 20px;
+}
